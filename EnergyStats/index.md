@@ -12,8 +12,6 @@ resources for the countries popularly known as G7.
 The focus of this exercise is to extract the information and the insights and present it via charts and bar graphs 
 for the G7 countries.
 
-1. <a href="https://github.com/jayguptacal/portfolio/blob/main/EnergyStats/Energy_Stats_DataWrangling.ipynb" target="_blank">Click here for the problem identification and data wrangling</a> 
-go to https://github.com/jayguptacal/portfolio/blob/main/EnergyStats/Energy_Stats_DataWrangling.ipynb
+1. <a href="https://github.com/jayguptacal/portfolio/blob/main/EnergyStats/Energy_Stats_DataWrangling.ipynb" target="_new">Click here for the Energy Stats problem identification and data wrangling</a> 
+2. <a href="https://github.com/jayguptacal/portfolio/blob/main/EnergyStats/Energy_Stats_EDA.ipynb" target="_new">Click here for the Energy Stats EDA Notebook</a>
 
-2. For the exploratory data analysis and the graphs, 
-go to https://github.com/jayguptacal/portfolio/blob/main/EnergyStats/Energy_Stats_EDA.ipynb
