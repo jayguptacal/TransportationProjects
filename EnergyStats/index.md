@@ -1,4 +1,4 @@
-Brief Introduction About The Energy Statistics Project
+<h1>Brief Introduction About The Energy Statistics Project</h1>
 
 While the data for this project has been sourced from Kaggle from the below link, it was originally provided by 
 the United Nations Statistics, a division of the UN Data site department (source credit: http://data.un.org/Explorer.aspx).
