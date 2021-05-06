@@ -1,7 +1,4 @@
-# Personal Project Portfolio
-
-1. Energy Stats Project focused on the Data Wrangling and Exploratory Data Analysis for the 
-conventional oil and alternative energy sources for the G7 countries
-https://github.com/jayguptacal/portfolio/blob/main/EnergyStats/Energy_Stats_DataWrangling.ipynb
-
-2. More coming soon...
+## Check-Out Jay Gupta's Portfolio for Other Machine Learning Projects ##
+<p>
+<a href="https://github.com/jayguptacal/portfolio/blob/main/README.md" target="_blank"><img src="https://github.com/jayguptacal/portfolio/blob/main/image/FullPortfolioBanner.jpg"></a>
+</p>
